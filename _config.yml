@@ -10,56 +10,47 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: zh-CN
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: ShenshenZhou                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
-
+tagline: 仰望星空 脚踏实地   # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+    仰望星空，脚踏实地。这里是 ShenshenZhou 的博客，用来记录成长与思考。
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://shenshenzhou.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: ShenshenZhou             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: ShenshenZhou
+  email: 15797870468@163.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/ShenshenZhou       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+#百度统计:用于统计网站访问情况
+baidu:
+    id: 25906ec40b1c2186c2c69b6f8a846633
 
-# ↑ --------------------------
+# 网页验证：可以搜到你的网页
+google_site_verification: EbIRAK-yj0lEMVk1uQwtW66urJnY8yfKtT112zfnTfA
+bing_site_verification: F960E7C0613FAA606F221C41E91E16C2
+bing_site_verification: code-c0lbfyrM1L
 
-
-google_analytics:
-  id: ''              # fill in your Google Analytics ID
-  # Google Analytics pageviews report settings
-  pv:
-    proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
-    cache_path:       # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
 #
@@ -79,26 +70,30 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+# img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/images/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
 
 disqus:
   comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  shortname: 'https-shenshenzhou-github-io'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 paginate: 10
 
 # ------------ The following options are not recommended to be modified ------------------
 
+markdown: kramdown
+
+highlighter: rouge
+
 kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
-    css_class: highlight
+    css_class: 'highlight'
     # default_lang: console
     span:
       line_numbers: false

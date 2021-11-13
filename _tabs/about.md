@@ -1,8 +1,8 @@
 ---
-title: About
+title: 关于
 icon: fas fa-info-circle
 order: 4
 ---
 
+This is a test file.
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
