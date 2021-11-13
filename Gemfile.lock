@@ -102,6 +102,8 @@ GEM
 
 PLATFORMS
   x86-mingw32
+  ruby 
+  x86_64-linux
 
 DEPENDENCIES
   html-proofer (~> 3.18)
