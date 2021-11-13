@@ -8,7 +8,7 @@ order: 4
 
 2021年11月11日，一个小白开启了自己的博客之旅，尝试着记录一些学习历程、生活思考、以及下至琐事、上至宇宙的胡思乱想。读万卷书，行万里路，始于此刻。
 
-本博客基于 [onevcat](https://github.com/onevcat/OneV-s-Den) 改进，致谢前辈。
+本博客基于 [chirpy模板 ](https://github.com/cotes2020/jekyll-theme-chirpy) 改进，致谢。
 
 ## 关于分类
 
