@@ -9,7 +9,7 @@
 _site
 vendor
 Gemfile.lock
-$ bundle lock --add-platform x86_64-linux
+$ bundle lock --add-platform x86_32-linux
 
 # rubygem
 *.gem
