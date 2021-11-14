@@ -120,6 +120,7 @@ defaults:
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
+
   -
     scope:
       path: _drafts
@@ -133,7 +134,7 @@ defaults:
       layout: page
       permalink: /:title/
       dynamic_title: true    # Hide title in mobile screens.
-
+  
 sass:
   style: compressed
 
