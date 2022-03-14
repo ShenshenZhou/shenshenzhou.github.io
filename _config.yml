@@ -19,9 +19,9 @@ timezone: Asia/Shanghai
 
 title: ShenshenZhou                          # the main title
 
-tagline: 仰望星空 脚踏实地   # it will display as the sub-title
+tagline: 好好学习 天天向上   # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
-    仰望星空，脚踏实地。这里是 ShenshenZhou 的博客，用来记录成长与思考。
+    这里是 ShenshenZhou 的博客，用来记录成长与思考。
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://shenshenzhou.github.io'
