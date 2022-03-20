@@ -5,8 +5,6 @@ tags: [C，note]
 categories: [note]
 ---
 
-
-
 # Chapter1 程序设计和 C 语言
 
 ## 计算机程序
