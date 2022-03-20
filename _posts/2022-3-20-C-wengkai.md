@@ -1,7 +1,7 @@
 ---
 title: C语言翁凯笔记
 date: 2022-3-20
-tags: [C，note]
+tags: [C,note]
 categories: [note]
 ---
 
