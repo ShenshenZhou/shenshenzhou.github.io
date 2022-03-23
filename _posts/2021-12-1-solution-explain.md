@@ -1,7 +1,7 @@
 ---
 title: 题解说明
 date: 2021-12-1
-tags: [C++,solution,algorithm]
+tags: [C++,题解,算法]
 categories: [题解]
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: C语言谭浩强笔记
 date: 2021-11-26
-tags: [C,note]
-categories: [note,C]
+tags: [C,笔记]
+categories: [笔记,C]
 ---
 
 # Chapter1 程序设计和 C 语言
