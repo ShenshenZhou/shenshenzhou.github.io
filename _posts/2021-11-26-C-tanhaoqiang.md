@@ -1,6 +1,6 @@
 ---
 title: C语言谭浩强笔记
-date: 2021-12-10
+date: 2021-11-26
 tags: [C,note]
 categories: [note,C]
 ---
