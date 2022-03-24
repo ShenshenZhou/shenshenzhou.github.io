@@ -2,7 +2,7 @@
 title: 2022.3网页资料
 date: 2022-3-1
 tags: [网页资料]
-categories: [other]
+categories: [其它]
 ---
 
 看书过程中总是有一些不熟悉、或之前看过却想不起来的琐碎知识点，看了忘，忘了看，不如在搜索的时候，把一些好的资源链接直接copy下来，这样也可以利用琐碎时间浏览一下加深印象。
@@ -48,4 +48,6 @@ categories: [other]
 [.h](https://blog.csdn.net/hou09tian/article/details/90290264)
 
 [set](http://c.biancheng.net/view/7192.html)
+
+[heap区](https://blog.csdn.net/qq_34175893/article/details/83502412)
 
