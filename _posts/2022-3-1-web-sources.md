@@ -51,3 +51,5 @@ categories: [其它]
 
 [heap区](https://blog.csdn.net/qq_34175893/article/details/83502412)
 
+[assign()](https://blog.csdn.net/qq_25018077/article/details/88251527)
+
