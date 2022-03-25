@@ -55,3 +55,5 @@ categories: [其它]
 
 [C++四种类型转换](https://img-blog.csdnimg.cn/img_convert/de07506c1f6d6d1bcc32fb27f8fba1e1.png)
 
+[C++__cplusplus](https://www.cnblogs.com/Braveliu/p/12219521.html)
+
