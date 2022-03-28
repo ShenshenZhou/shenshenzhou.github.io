@@ -57,3 +57,5 @@ categories: [其它]
 
 [C++__cplusplus](https://www.cnblogs.com/Braveliu/p/12219521.html)
 
+[C++读写文件](https://zhuanlan.zhihu.com/p/352961501)
+
