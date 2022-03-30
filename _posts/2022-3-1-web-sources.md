@@ -59,3 +59,5 @@ categories: [其它]
 
 [C++读写文件](https://zhuanlan.zhihu.com/p/352961501)
 
+[并查集基础](https://www.runoob.com/data-structures/union-find-basic.html)     and    [一个有趣的讲解](https://blog.csdn.net/the_zed/article/details/105126583)
+
