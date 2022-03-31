@@ -61,3 +61,5 @@ categories: [其它]
 
 [并查集基础](https://www.runoob.com/data-structures/union-find-basic.html)     and    [一个有趣的讲解](https://blog.csdn.net/the_zed/article/details/105126583)
 
+[C++ vector中使用pair 及 pair的基本用法总结](https://www.jianshu.com/p/4b2884c050dc)
+
