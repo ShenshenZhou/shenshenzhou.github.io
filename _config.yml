@@ -89,10 +89,14 @@ paginate: 10
 # ------------ The following options are not recommended to be modified ------------------
 
 markdown: kramdown
-
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+  use_coderay: true
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: 'highlight'
     # default_lang: console
