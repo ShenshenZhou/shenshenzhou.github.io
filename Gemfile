@@ -24,3 +24,7 @@ gem "webrick", "~> 1.7"
 gem "kramdown"
 gem "rouge"
 
+gem "jekyll-toc"
+
+
+
