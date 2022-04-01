@@ -23,4 +23,4 @@ gem "webrick", "~> 1.7"
 
 gem 'rouge'
 
-gem install kramdown
+gem 'kramdown'
