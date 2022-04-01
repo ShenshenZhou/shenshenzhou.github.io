@@ -23,5 +23,5 @@ gem "webrick", "~> 1.7"
 
 gem 'rouge'
 
-$ gem install kramdown
-$ gem install coderay
+gem install kramdown
+gem install coderay
