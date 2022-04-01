@@ -26,5 +26,6 @@ gem "rouge"
 
 gem "jekyll-toc"
 
-
+plugins:
+  - jekyll-toc
 
