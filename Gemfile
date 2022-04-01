@@ -24,3 +24,6 @@ gem "webrick", "~> 1.7"
 gem 'rouge'
 
 gem 'kramdown'
+gem 'coderay'
+
+
