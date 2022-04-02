@@ -41,3 +41,26 @@ const resource = [
 
 ];
 
+/* The request url with below domain will be cached */
+const allowedDomains = [
+  {% if site.google_analytics.id != '' %}
+    'www.googletagmanager.com',
+    'www.google-analytics.com',
+  {% endif %}
+
+  '{{ site.url | split: "//" | last }}',
+
+  'fonts.gstatic.com',
+  'fonts.googleapis.com',
+  'cdn.jsdelivr.net',
+  'polyfill.io'
+];
+
+/* Requests that include the following path will be banned */
+const denyUrls = [
+  {% if site.google_analytics.pv.cache_path %}
+    '{{ site.google_analytics.pv.cache_path | absolute_url }}'
+  {% endif %}
+];
+
+   
