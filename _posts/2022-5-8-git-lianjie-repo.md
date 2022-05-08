@@ -18,5 +18,5 @@ git remote add origin https://github.com/yourName/repositoryname.git
 
 如果连接中显示失败，可以通过`git remote -v` 查看远程库信息。`git remote rm origin`删除关联的origin远程库，然后再重新使用上述命令进行连接。
 
-[fatal: remote origin already exists. (远程来源已经存在 解决办法)](https://cloud.tencent.com/developer/article/1880265)
+[fatal: remote origin already exists. (远程来源已存在 解决办法)](https://cloud.tencent.com/developer/article/1880265)
 
