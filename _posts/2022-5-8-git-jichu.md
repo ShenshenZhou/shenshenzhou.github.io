@@ -20,3 +20,19 @@ git remote add origin https://github.com/yourName/repositoryname.git
 
 [fatal: remote origin already exists. (远程来源已存在 解决办法)](https://cloud.tencent.com/developer/article/1880265)
 
+### add、commit、push三连
+
+[git的add、commit、push的详细介绍 ](https://www.jianshu.com/p/2e1d551b8261)
+
+### OpenSSL错误
+
+[Git更新报错`OpenSSL SSL_read: Connection was reset, errno 10054`](https://blog.csdn.net/weixin_43705953/article/details/119959145#:~:text=OpenSSL SSL _ read%3A Connection was reset%2C errno,V er ify "fal se "，解除 ssl 验证..)
+
+### 每次都要输入密码
+
+[解决每次git pull、git push都需要输入账号密码的问题](https://blog.csdn.net/yinghuochong124/article/details/113860505)
+
+### Failed connect to github.com:443
+
+[git错误: Failed connect to github.com:443](https://blog.csdn.net/weixin_41010198/article/details/100095212#:~:text=在IDEA中，项目 com mit完后，需要Push到 GitHub 时，出现“ Failed to connect,git config --global --unset http.proxy git config --globa)
+
