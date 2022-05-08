@@ -42,3 +42,7 @@ git remote add origin https://github.com/yourName/repositoryname.git
 
 [git/github采用token进行认证访问](https://www.jianshu.com/p/ec68ab0a103f)
 
+### SSH连接！
+
+[git：SSH连接，无需登录账号密码](https://blog.csdn.net/weixin_40922744/article/details/107576748)
+
