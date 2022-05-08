@@ -38,5 +38,5 @@ git remote add origin https://github.com/yourName/repositoryname.git
 
 ### token认证访问
 
-[git/github采用token进行认证访问 )](https://www.jianshu.com/p/ec68ab0a103f)
+[git/github采用token进行认证访问](https://www.jianshu.com/p/ec68ab0a103f)
 
