@@ -36,3 +36,7 @@ git remote add origin https://github.com/yourName/repositoryname.git
 
 [git错误: Failed connect to github.com:443](https://blog.csdn.net/weixin_41010198/article/details/100095212#:~:text=在IDEA中，项目 com mit完后，需要Push到 GitHub 时，出现“ Failed to connect,git config --global --unset http.proxy git config --globa)
 
+### token认证访问
+
+[git/github采用token进行认证访问 )](https://www.jianshu.com/p/ec68ab0a103f)
+
