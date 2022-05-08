@@ -3,7 +3,7 @@
 title: git连接远程仓库
 date: 2022-5-8 17:57:21 +0800
 tags: [git,github,笔记]
-categories: [笔记，git使用笔记]
+categories: [笔记,git使用笔记]
 
 ---
 
