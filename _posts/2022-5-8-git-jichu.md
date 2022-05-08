@@ -26,7 +26,7 @@ git remote add origin https://github.com/yourName/repositoryname.git
 
 ### OpenSSL错误
 
-[Git更新报错`OpenSSL SSL_read: Connection was reset, errno 10054`](https://blog.csdn.net/weixin_43705953/article/details/119959145#:~:text=OpenSSL SSL _ read%3A Connection was reset%2C errno,V er ify "fal se "，解除 ssl 验证..)
+[Git更新报错`OpenSSL SSL_read: Connection was reset, errno 10054`](https://blog.csdn.net/weixin_43705953/article/details/119959145)
 
 ### 每次都要输入密码
 
