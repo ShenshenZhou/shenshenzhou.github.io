@@ -1,7 +1,7 @@
 ---
-title: 网页bug
-date: 2021-11-13
-tags: [bug] 
+title: 博客bug说明
+date: 2021-11-13 18:08:03 +0800
+tags: [bug,blog] 
 categories: [项目,MyBlog]
 ---
 
