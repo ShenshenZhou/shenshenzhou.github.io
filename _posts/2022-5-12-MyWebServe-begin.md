@@ -3,7 +3,7 @@
 title: MyWebServe说明
 date: 2022-5-12 17:01:21 +0800
 tags: [WebServe,项目,Linux编程]
-categories: [笔记,MyWebServe]
+categories: [项目,MyWebServe]
 
 ---
 
