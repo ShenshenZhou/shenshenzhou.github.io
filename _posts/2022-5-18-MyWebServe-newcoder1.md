@@ -4,6 +4,7 @@ title: newcoder：第1章 Linux系统编程入门
 date: 2022-5-18 21:58:16 +0800
 tags: [WebServe,项目,Linux编程,newcoder]
 categories: [项目,MyWebServe]
+typora-root-url: ..
 ---
 
 ### 第1章 Linux系统编程入门
@@ -21,4 +22,19 @@ categories: [项目,MyWebServe]
 > 后续：用终端命令用虚拟机下载gcc和g++，然后更改一下编译器配置为g++暂时可以用了。需要注意的是，.c文件不能用CPP相关头文件，反之，.cpp兼容c。
 >
 > 累了累了，一个bug搞半天，其实在看到报错检测不到路径时，就应该想到自己链接的远程的虚拟机linux系统，应该在远程下载gcc和g++。本地配置应该也行，但是搞了好久没搞出来，就先这样用吧，后面除了问题再解决。
+
+### GCC
+
+终端运行程序流程：
+
+```c++
+// 1 编译
+g++ test.cpp -o test  // -o表示指定编译后生成的文件名
+// 2 运行
+./test  // ./编译后的文件
+```
+
+![GCC工作流程](/assets/images//GCC工作流程.png)
+
+*GCC工作流程*
 
