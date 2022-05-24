@@ -36,7 +36,7 @@ g++ test.cpp -o test  // -o表示指定编译后生成的文件名
 
 ![GCC工作流程](/assets/images//GCC工作流程.png)
 
-*GCC工作流程*
+_GCC工作流程_
 
 ### 静态库与动态库
 
