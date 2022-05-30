@@ -1,6 +1,6 @@
-The project is a personal site https://shenshenzhou.github.io.
+个人博客
 
-You can also visit www.shenshenzhou.xyz.
+You can also visit https://shenshenzhou.github.io or www.shenshenzhou.xyz.
 
 If you were interested in it,
 please visit [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy).
