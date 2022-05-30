@@ -1,4 +1,4 @@
-The project is my personal blog.
+This is my personal blog project.
 
 You can visit https://shenshenzhou.github.io or www.shenshenzhou.xyz.
 
