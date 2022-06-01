@@ -1,9 +1,9 @@
 ---
 
-title: MySQL必知必会 配置本地服务
+title: MySQL配置本地服务
 date: 2022-4-22 19:45:53 +0800
 tags: [数据库,MySQL,笔记]
-categories: [笔记,MySQL必知必会]
+categories: [笔记,MySQL]
 
 ---
 
