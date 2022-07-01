@@ -2,8 +2,8 @@
 
 title: git使用初体验及踩坑
 date: 2022-5-8 22:27:29 +0800
-tags: [git,github,笔记]
-categories: [笔记,Git]
+tags: [git,github,笔记,Linux]
+categories: [笔记,Linux]
 
 ---
 

@@ -2,8 +2,8 @@
 
 title: MySQL配置本地服务
 date: 2022-4-22 19:45:53 +0800
-tags: [数据库,MySQL,笔记]
-categories: [笔记,MySQL]
+tags: [数据库,MySQL,笔记,SQL]
+categories: [笔记,SQL]
 
 ---
 
