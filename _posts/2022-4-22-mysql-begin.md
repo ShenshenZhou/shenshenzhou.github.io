@@ -7,7 +7,7 @@ categories: [笔记,SQL]
 
 ---
 
-今天开始学习《MySQL》必知必会，需要装一下MySQL本地服务，主要参考了书还有网上的一些链接。
+今天开始学习《MySQL》必知必会，跟着书中实例敲常用命令，需要装一下MySQL本地服务，主要参考了书还有网上的一些链接。
 
 [MySQL的安装与配置 ](https://www.cnblogs.com/winton-nfs/p/11524007.html)
 

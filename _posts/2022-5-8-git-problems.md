@@ -1,7 +1,7 @@
 ---
 
 
-title: git基本操作
+title: Git使用踩坑
 date: 2022-5-8 17:57:21 +0800
 tags: [git,github,笔记,Linux]
 categories: [笔记,Linux]
