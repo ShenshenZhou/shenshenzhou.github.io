@@ -1,8 +1,8 @@
 ---
-title: WebServe搭建Linux开发环境
+title: WebServer搭建Linux开发环境
 date: 2022-5-18 21:58:16 +0800
-tags: [WebServe,项目,Linux编程,环境]
-categories: [项目,MyWebServe]
+tags: [WebServer,项目,Linux编程,环境]
+categories: [项目,MyWebServer]
 typora-root-url: ..
 ---
 
