@@ -2,8 +2,8 @@
 
 title: MySQL相关知识整理
 date: 2022-7-15 22:41:27 +0800
-tags: [总结,MySQL,八股,SQL]
-categories: [SQL]
+tags: [总结,MySQL,八股,数据库,SQL]
+categories: [笔记,SQL]
 typora-root-url: ..
 
 ---
