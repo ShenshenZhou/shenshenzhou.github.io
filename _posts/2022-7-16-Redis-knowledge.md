@@ -3,7 +3,7 @@
 title: Redis相关知识整理
 date: 2022-7-16 22:35:05 +0800
 tags: [总结,Redis,八股,数据库]
-categories: [笔记,SQL]
+categories: [笔记,Redis]
 typora-root-url: ..
 
 ---
