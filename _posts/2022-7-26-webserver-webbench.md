@@ -4,6 +4,7 @@ title: MyWebserver压力测试
 date: 2022-7-26 09:28:30 +0800
 tags: [项目,webbench,webserver]
 categories: [项目,MyWebServer]
+typora-root-url: ..
 
 ---
 
@@ -33,7 +34,7 @@ webbench是Linux下使用的一个轻量级（适用于中小型网站）的服�
 ./webbench -c 10000 -t 5 http://192.168.253.128:1316/
 ```
 
-![压测](../assets/images/webserver-webbench.png)
+![webserver-webbench](/assets/images/webserver-webbench.png)
 
 测试环境：Ubuntu:18.2 cpu:i5-10400 内存:8G
 
